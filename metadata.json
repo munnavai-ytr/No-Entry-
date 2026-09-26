@@ -1,0 +1,6 @@
+{
+  "name": "No Entry",
+  "description": "Secure device 1-year subscription lock managed in real-time with Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
